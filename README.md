@@ -10,4 +10,6 @@ We present a method for obtaining approximate solutions to the problem of optima
 
 Working demos are located in the form of Jupyter notebooks in the directory ```/notebooks```. The directory ```/src``` contains the source code for the project.
 
+## Related repositories
 
+This project has lead to other spin-off projects. For instance, [this repository](https://github.com/imanolperez/optimal-double-execution) contains the code for a certain double-execution problem that was solved using the methods proposed in this repository/paper.
